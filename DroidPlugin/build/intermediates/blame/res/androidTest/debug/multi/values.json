@@ -1,0 +1,108 @@
+[
+    {
+        "outputFile": "D:\\android\\workspace_osc\\LeafTestApp\\DroidPlugin\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "D:\\android\\workspace_osc\\LeafTestApp\\DroidPlugin\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 57,
+                        "endOffset": 108
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 70,
+                    "endOffset": 179
+                },
+                "from": {
+                    "file": "D:\\android\\workspace_osc\\LeafTestApp\\DroidPlugin\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 184,
+                    "endColumn": 57,
+                    "endOffset": 237
+                },
+                "from": {
+                    "file": "D:\\android\\workspace_osc\\LeafTestApp\\DroidPlugin\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 242,
+                    "endColumn": 52,
+                    "endOffset": 290
+                },
+                "from": {
+                    "file": "D:\\android\\workspace_osc\\LeafTestApp\\DroidPlugin\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 295,
+                    "endColumn": 52,
+                    "endOffset": 343
+                },
+                "from": {
+                    "file": "D:\\android\\workspace_osc\\LeafTestApp\\DroidPlugin\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 348,
+                    "endLine": 10,
+                    "endColumn": 12,
+                    "endOffset": 580
+                },
+                "from": {
+                    "file": "D:\\android\\workspace_osc\\LeafTestApp\\DroidPlugin\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 348,
+                        "endLine": 10,
+                        "endColumn": 12,
+                        "endOffset": 580
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 585,
+                    "endLine": 13,
+                    "endColumn": 12,
+                    "endOffset": 752
+                },
+                "from": {
+                    "file": "D:\\android\\workspace_osc\\LeafTestApp\\DroidPlugin\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml"
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,26 @@
+{
+  "message": "success",
+  "code": 200,
+  "data": [
+    {
+      "name": "ApiTest",
+      "packageName":"com.zhy.plugin.hb",
+      "versionCode": 1,
+      "versionName": "1.0",
+      "forceUpdate": true,
+      "updateDesc": "desctext",
+      "icon": "http://7xqjy9.com1.z0.glb.clouddn.com/2015-07-10_200833.png",
+      "url": "http://7xqjy9.com1.z0.glb.clouddn.com/apkApiTest-v1.apk"
+    },
+    {
+      "name": "ApiTest",
+      "packageName":"com.zhy.plugin.zy",
+      "versionCode": 1,
+      "versionName": "1.0",
+      "forceUpdate": true,
+      "updateDesc": "desctext",
+      "icon": "http://7xqjy9.com1.z0.glb.clouddn.com/2015-07-10_200833.png",
+      "url": "http://7xqjy9.com1.z0.glb.clouddn.com/apkApiTest-v1.apk"
+    }
+  ]
+}

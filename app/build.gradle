@@ -1,0 +1,49 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 25
+    buildToolsVersion "25.0.2"
+    defaultConfig {
+        applicationId "com.leaf.plugin"
+        minSdkVersion 14
+        targetSdkVersion 25
+        versionCode 1
+        versionName "1.0"
+
+        ndk {
+            abiFilters "armeabi", "armeabi-v7a", "x86"
+        }
+    }
+
+    signingConfigs {
+        leaf {
+            storeFile file('D:/android/key/leaf/leaf.jks')
+            keyAlias 'leaf'
+            keyPassword 'leaf032529'
+            storePassword 'leaf032529'
+            //https://developer.android.com/about/versions/nougat/android-7.0.html#apk_signature_v2
+            //禁用v2签名增强模式
+//            v2SigningEnabled false
+        }
+    }
+
+    buildTypes {
+
+
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+            //签名配置
+            pseudoLocalesEnabled true
+            signingConfig signingConfigs.leaf
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    compile project(':DroidPlugin')
+    compile 'com.android.support:appcompat-v7:25.3.0'
+    compile 'io.reactivex:rxjava:1.1.0'
+    compile 'io.reactivex:rxandroid:1.1.0'
+}

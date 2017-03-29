@@ -1,0 +1,125 @@
+[
+    {
+        "outputFile": "D:\\android\\wordspace_git\\DroidPlugin\\project\\Libraries\\DroidPlugin\\bin\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 70,
+                    "endOffset": 121
+                },
+                "from": {
+                    "file": "D:\\android\\wordspace_git\\DroidPlugin\\project\\Libraries\\DroidPlugin\\bin\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 70,
+                        "endOffset": 121
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 126,
+                    "endColumn": 57,
+                    "endOffset": 179
+                },
+                "from": {
+                    "file": "D:\\android\\wordspace_git\\DroidPlugin\\project\\Libraries\\DroidPlugin\\bin\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 126,
+                        "endColumn": 57,
+                        "endOffset": 179
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 184,
+                    "endColumn": 52,
+                    "endOffset": 232
+                },
+                "from": {
+                    "file": "D:\\android\\wordspace_git\\DroidPlugin\\project\\Libraries\\DroidPlugin\\bin\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 184,
+                        "endColumn": 52,
+                        "endOffset": 232
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 237,
+                    "endColumn": 52,
+                    "endOffset": 285
+                },
+                "from": {
+                    "file": "D:\\android\\wordspace_git\\DroidPlugin\\project\\Libraries\\DroidPlugin\\bin\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 237,
+                        "endColumn": 52,
+                        "endOffset": 285
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 290,
+                    "endLine": 8,
+                    "endColumn": 12,
+                    "endOffset": 461
+                },
+                "from": {
+                    "file": "D:\\android\\wordspace_git\\DroidPlugin\\project\\Libraries\\DroidPlugin\\bin\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 290,
+                        "endLine": 8,
+                        "endColumn": 12,
+                        "endOffset": 461
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 466,
+                    "endLine": 11,
+                    "endColumn": 12,
+                    "endOffset": 633
+                },
+                "from": {
+                    "file": "D:\\android\\wordspace_git\\DroidPlugin\\project\\Libraries\\DroidPlugin\\bin\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 466,
+                        "endLine": 11,
+                        "endColumn": 12,
+                        "endOffset": 633
+                    }
+                }
+            }
+        ]
+    }
+]

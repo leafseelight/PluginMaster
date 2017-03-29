@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\android\\workspace_osc\\LeafTestApp\\DroidPlugin\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\plugin_activity_loading.xml",
+        "source": "D:\\android\\workspace_osc\\LeafTestApp\\DroidPlugin\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\plugin_activity_loading.xml"
+    },
+    {
+        "merged": "D:\\android\\workspace_osc\\LeafTestApp\\DroidPlugin\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\loading.png",
+        "source": "D:\\android\\workspace_osc\\LeafTestApp\\DroidPlugin\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\loading.png"
+    },
+    {
+        "merged": "D:\\android\\workspace_osc\\LeafTestApp\\DroidPlugin\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\custom_loading.9.png",
+        "source": "D:\\android\\workspace_osc\\LeafTestApp\\DroidPlugin\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\custom_loading.9.png"
+    },
+    {
+        "merged": "D:\\android\\workspace_osc\\LeafTestApp\\DroidPlugin\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\plugin_activity_loading_bitmap.9.png",
+        "source": "D:\\android\\workspace_osc\\LeafTestApp\\DroidPlugin\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\plugin_activity_loading_bitmap.9.png"
+    }
+]
